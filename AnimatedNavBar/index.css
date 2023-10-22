@@ -66,6 +66,7 @@ svg:hover, svg:focus{
     padding:1.5rem 1rem;
     cursor: pointer;
 }
+
 .nav_listitem:hover ul, .nav_listitem:focus ul{
     opacity: 1;
     visibility: visible;
